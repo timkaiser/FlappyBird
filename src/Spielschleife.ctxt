@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Spielschleife
+comment1.params=
+comment1.target=Spielschleife()
+comment2.params=g\ spielfeld
+comment2.target=void\ zeichnen(java.awt.Graphics,\ Spielfeld)
+comment3.params=
+comment3.target=void\ sprung()
+comment4.params=
+comment4.target=void\ run()
+comment5.params=
+comment5.target=void\ restart()
+comment6.params=
+comment6.target=void\ scoreSpeichern()
+numComments=7

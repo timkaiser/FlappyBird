@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Hindernis
+comment1.params=img1\ img2\ x\ y
+comment1.target=Hindernis(java.awt.image.BufferedImage,\ java.awt.image.BufferedImage,\ double,\ double)
+comment2.params=g\ spielfeld\ xVerschiebung
+comment2.target=void\ zeichnen(java.awt.Graphics,\ Spielfeld,\ int)
+comment3.params=r
+comment3.target=boolean\ kollision(java.awt.Rectangle)
+numComments=4
